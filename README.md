@@ -13,9 +13,9 @@ I build **simple, fast Windows desktop tools** that turn repetitive computer wor
 
 | Project | What it does | Download |
 |---|---|---|
-| [Wallpaper Slideshow Pro](link-to-repo) | Change your wallpaper at any interval you choose | [Latest release](link-to-release) |
-| [Bulk File Renamer](link-to-repo) | Rename thousands of files with a live preview | [Latest release](link-to-release) |
-| [Batch Image Resizer](link-to-repo) | Resize and convert many images at once | [Latest release](link-to-release) |
+| [Wallpaper Slideshow Pro](link-to-repo) | Change your wallpaper at any interval you choose | [Latest release](link-to-release) | [Coming soon] |
+| [Bulk File Renamer](link-to-repo) | Rename thousands of files with a live preview | [Latest release](link-to-release) | [Coming soon] |
+| [Batch Image Resizer](link-to-repo) | Resize and convert many images at once | [Latest release](link-to-release) | [Coming soon] |
 
 ## Tech stack
 `Electron.js` `JavaScript` `Node.js` `HTML5` `CSS3`
@@ -23,4 +23,4 @@ I build **simple, fast Windows desktop tools** that turn repetitive computer wor
 ## Need a custom tool?
 I take on freelance projects. Describe the task you want to automate and I'll suggest the simplest way to build it.
 
-📩 **Hire me on Upwork:** [your Upwork profile link]
+📩 **Hire me on Upwork:** 
